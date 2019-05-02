@@ -1,0 +1,27 @@
+{
+    "bands": [
+        {
+            "id": 0,
+            "name": "The Main Squeeze",
+            "hasWebsite": true,
+            "hasYoutube": true,
+            "hasTwitter": true,
+            "hasSoundcloud": true,
+            "hasFacebook": true,
+            "hasInstagram": true,
+            "webUrl": "http://www.mainsqueezemusic.com/",
+            "youtubeUrl": "https://www.youtube.com/channel/UC0Wu8k-3Yc6tro6KYmLZRvQ",
+            "twitterUrl": "https://twitter.com/mainsqueezeme",
+            "soundcloudUrl": "https://soundcloud.com/mainsqueezemusic",
+            "facebookUrl": "https://www.facebook.com/mainsqueezemusic/",
+            "instagramUrl": "https://www.instagram.com/instasqueeze/"
+        }
+    ],
+    "songs": [
+        {
+            "id": 0,
+            "pk": 0,
+            "title": "Redbone"
+        }
+    ]
+}
