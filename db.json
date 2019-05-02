@@ -1,11 +1,6 @@
 {
     "bands": [
         {
-            "id": 0,
-            "name": "D. WATERMELONE",
-            "bandImgUrl": "https://yt3.ggpht.com/-PDAK9qvNmD8/AAAAAAAAAAI/AAAAAAAAAAA/4tEyUVUVbtc/s108-c-k-no-mo-rj-c0xffffff/photo.jpg"
-        },
-        {
             "id": 1,
             "name": "The Main Squeeze",
             "bandImgUrl": "https://yt3.ggpht.com/a-/AAuE7mDuvOJynGAaxclT9SSpCeS64rml7EUksoUiwA=s288-mo-c-c0xffffffff-rj-k-no"
