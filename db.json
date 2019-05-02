@@ -3,6 +3,13 @@
         {
             "id": 0,
             "name": "The Main Squeeze",
+            "bandImgUrl": "https://yt3.ggpht.com/a-/AAuE7mDuvOJynGAaxclT9SSpCeS64rml7EUksoUiwA=s288-mo-c-c0xffffffff-rj-k-no"
+        }
+    ],
+    "socialLinks": [
+        {
+            "id": 0,
+            "pk": 0,
             "hasWebsite": true,
             "hasYoutube": true,
             "hasTwitter": true,
@@ -14,8 +21,7 @@
             "twitterUrl": "https://twitter.com/mainsqueezeme",
             "soundcloudUrl": "https://soundcloud.com/mainsqueezemusic",
             "facebookUrl": "https://www.facebook.com/mainsqueezemusic/",
-            "instagramUrl": "https://www.instagram.com/instasqueeze/",
-            "bandImgUrl": "https://yt3.ggpht.com/a-/AAuE7mDuvOJynGAaxclT9SSpCeS64rml7EUksoUiwA=s288-mo-c-c0xffffffff-rj-k-no"
+            "instagramUrl": "https://www.instagram.com/instasqueeze/"
         }
     ],
     "songs": [
