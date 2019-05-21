@@ -98,5 +98,32 @@
             "pk": 3,
             "title": "Fixing a Broken Heart"
         }
+    ],
+    "credits": [
+        {
+          "id": 0,
+          "url": "https://www.pexels.com/@psad",
+          "name": "David Yu"
+        },
+        {
+          "id": 1,
+          "url": "https://www.pexels.com/@pixabay",
+          "name": "Pixabay"
+        },
+        {
+          "id": 2,
+          "url": "https://www.pexels.com/@pedro",
+          "name": "Pedro Sandrini"
+        },
+        {
+          "id": 3,
+          "url": "https://www.pexels.com/@mark-angelo-738078",
+          "name": "Mark Angelo"
+        },
+        {
+          "id": 4,
+          "url": "https://www.pexels.com/@joshsorenson",
+          "name": "Josh Sorenson"
+        }
     ]
 }
