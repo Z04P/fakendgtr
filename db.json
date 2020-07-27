@@ -14,6 +14,11 @@
             "id": 3,
             "name": "Indecent Obsession",
             "artistImgUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Fixing_a_Broken_Heart_by_Indecent_Obsession.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Vulfpeck",
+            "artistImgUrl": "https://yt3.ggpht.com/a/AATXAJx6m-upQ4kTSD_xpCo8m2bU2GMJzwymUluaUg6dQw=s100-c-k-c0xffffffff-no-rj-mo"
         }
     ],
     "socialLinks": [
@@ -80,6 +85,22 @@
             "soundcloudUrl": "",
             "facebookUrl": "",
             "instagramUrl": ""
+        },
+        {
+            "id": 4,
+            "pk": 4,
+            "hasWebsite": true,
+            "hasYoutube": true,
+            "hasTwitter": true,
+            "hasSoundcloud": true,
+            "hasFacebook": true,
+            "hasInstagram": true,
+            "webUrl": "https://vulfpeck.com/",
+            "youtubeUrl": "https://www.youtube.com/user/DJparadiddle",
+            "twitterUrl": "https://twitter.com/vulfpeck",
+            "soundcloudUrl": "https://soundcloud.com/vulfpeck",
+            "facebookUrl": "https://www.facebook.com/vulfpeck/",
+            "instagramUrl": "https://www.instagram.com/vulfpeck/"
         }
     ],
     "songs": [
@@ -102,6 +123,11 @@
             "id": 3,
             "pk": 1,
             "title": "Fancy Clothes"
+        },
+        {
+            "id": 4,
+            "pk": 4,
+            "title": "Beastly"
         }
     ],
     "credits": [
